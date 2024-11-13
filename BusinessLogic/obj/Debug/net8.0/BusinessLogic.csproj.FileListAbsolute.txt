@@ -1,0 +1,15 @@
+D:\netcore_repository\SchoolApp\BusinessLogic\bin\Debug\net8.0\BusinessLogic.deps.json
+D:\netcore_repository\SchoolApp\BusinessLogic\bin\Debug\net8.0\BusinessLogic.dll
+D:\netcore_repository\SchoolApp\BusinessLogic\bin\Debug\net8.0\BusinessLogic.pdb
+D:\netcore_repository\SchoolApp\BusinessLogic\bin\Debug\net8.0\DataAccess.dll
+D:\netcore_repository\SchoolApp\BusinessLogic\bin\Debug\net8.0\DataAccess.pdb
+D:\netcore_repository\SchoolApp\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\netcore_repository\SchoolApp\BusinessLogic\obj\Debug\net8.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\netcore_repository\SchoolApp\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\netcore_repository\SchoolApp\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfo.cs
+D:\netcore_repository\SchoolApp\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\netcore_repository\SchoolApp\BusinessLogic\obj\Debug\net8.0\Business.CF5D6E35.Up2Date
+D:\netcore_repository\SchoolApp\BusinessLogic\obj\Debug\net8.0\BusinessLogic.dll
+D:\netcore_repository\SchoolApp\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
+D:\netcore_repository\SchoolApp\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
+D:\netcore_repository\SchoolApp\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll
