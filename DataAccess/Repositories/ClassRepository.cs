@@ -5,16 +5,9 @@ using MongoDB.Driver;
 
 namespace DataAccess.Repositories;
 
-public class ClassRepository : IClassRepository
+public class ClassRepository(MongoDbContext dbContext) : IClassRepository
 {
-    private readonly IMongoCollection<Class> _collection;
-
-    public ClassRepository()
-    {
-        var mongoClient = new MongoClient(MongoDbConnection.ConnectionString);
-        var mongoDatabase = mongoClient.GetDatabase(MongoDbConnection.DatabaseName);
-        _collection = mongoDatabase.GetCollection<Class>("Classes");
-    }
+    private readonly IMongoCollection<Class> _collection = dbContext.Database<Class>("Classes");
 
     public async Task<Class> CreateAsync(Class @class)
     {

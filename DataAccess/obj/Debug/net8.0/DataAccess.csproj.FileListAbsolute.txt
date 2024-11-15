@@ -10,3 +10,4 @@ D:\netcore_repository\SchoolApp\DataAccess\obj\Debug\net8.0\DataAccess.dll
 D:\netcore_repository\SchoolApp\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
 D:\netcore_repository\SchoolApp\DataAccess\obj\Debug\net8.0\DataAccess.pdb
 D:\netcore_repository\SchoolApp\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+D:\netcore_repository\SchoolApp\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json

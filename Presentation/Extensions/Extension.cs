@@ -1,5 +1,6 @@
 using BusinessLogic.Interfaces;
 using BusinessLogic.Services;
+using DataAccess.DataContext;
 using DataAccess.Interfaces;
 using DataAccess.Repositories;
 
@@ -16,5 +17,7 @@ public static class Extension
         services.AddScoped<IStudentRepository, StudentRepository>();
         services.AddScoped<IClassRepository, ClassRepository>();
         services.AddScoped<ITeacherRepository, TeacherRepository>();
+
+        services.AddScoped(typeof(MongoDbContext));
     }
 }

@@ -41,3 +41,4 @@ D:\netcore_repository\SchoolApp\Presentation\obj\Debug\net8.0\refint\Presentatio
 D:\netcore_repository\SchoolApp\Presentation\obj\Debug\net8.0\Presentation.pdb
 D:\netcore_repository\SchoolApp\Presentation\obj\Debug\net8.0\Presentation.genruntimeconfig.cache
 D:\netcore_repository\SchoolApp\Presentation\obj\Debug\net8.0\ref\Presentation.dll
+D:\netcore_repository\SchoolApp\Presentation\obj\Debug\net8.0\Presentation.sourcelink.json

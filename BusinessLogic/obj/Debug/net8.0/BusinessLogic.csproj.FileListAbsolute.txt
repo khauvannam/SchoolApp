@@ -13,3 +13,4 @@ D:\netcore_repository\SchoolApp\BusinessLogic\obj\Debug\net8.0\BusinessLogic.dll
 D:\netcore_repository\SchoolApp\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
 D:\netcore_repository\SchoolApp\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
 D:\netcore_repository\SchoolApp\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll
+D:\netcore_repository\SchoolApp\BusinessLogic\obj\Debug\net8.0\BusinessLogic.sourcelink.json
