@@ -1,5 +1,6 @@
 using BusinessLogic.Interfaces;
 using DataAccess.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Presentation.DTOs;
 
@@ -72,6 +73,7 @@ public class StudentsController(IStudentService studentService) : ControllerBase
         return Ok(student);
     }
 
+    [Authorize]
     [HttpGet]
     public async Task<IActionResult> GetAllStudents()
     {

@@ -7,7 +7,7 @@ public class Class(string teacherId, List<string> studentIds, string name)
 {
     [BsonId]
     [BsonRepresentation(BsonType.ObjectId)]
-    public string Id { get; set; }
+    public string Id { get; set; } = null!;
 
     public string TeacherId { get; set; } = teacherId;
     public string Name { get; set; } = name;

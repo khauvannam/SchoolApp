@@ -42,3 +42,12 @@ D:\netcore_repository\SchoolApp\Presentation\obj\Debug\net8.0\Presentation.pdb
 D:\netcore_repository\SchoolApp\Presentation\obj\Debug\net8.0\Presentation.genruntimeconfig.cache
 D:\netcore_repository\SchoolApp\Presentation\obj\Debug\net8.0\ref\Presentation.dll
 D:\netcore_repository\SchoolApp\Presentation\obj\Debug\net8.0\Presentation.sourcelink.json
+D:\netcore_repository\SchoolApp\Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\netcore_repository\SchoolApp\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\netcore_repository\SchoolApp\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\netcore_repository\SchoolApp\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\netcore_repository\SchoolApp\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\netcore_repository\SchoolApp\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\netcore_repository\SchoolApp\Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\netcore_repository\SchoolApp\Presentation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\netcore_repository\SchoolApp\Presentation\bin\Debug\net8.0\BCrypt.Net-Next.dll

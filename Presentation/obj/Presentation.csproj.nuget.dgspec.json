@@ -13,6 +13,7 @@
         "packagesPath": "C:\\Users\\nam\\.nuget\\packages\\",
         "outputPath": "D:\\netcore_repository\\SchoolApp\\BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "C:\\Users\\nam\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
@@ -76,6 +77,7 @@
         "packagesPath": "C:\\Users\\nam\\.nuget\\packages\\",
         "outputPath": "D:\\netcore_repository\\SchoolApp\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "C:\\Users\\nam\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
@@ -107,6 +109,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
             "MongoDB.Driver": {
               "target": "Package",
               "version": "[3.0.0, )"
@@ -141,6 +147,7 @@
         "packagesPath": "C:\\Users\\nam\\.nuget\\packages\\",
         "outputPath": "D:\\netcore_repository\\SchoolApp\\Presentation\\obj\\",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "C:\\Users\\nam\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
@@ -176,6 +183,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.11, )"
@@ -183,6 +198,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.3.0, )"
             }
           },
           "imports": [
